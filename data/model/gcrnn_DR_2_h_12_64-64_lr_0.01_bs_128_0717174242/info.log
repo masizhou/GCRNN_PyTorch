@@ -1,0 +1,182 @@
+2021-07-17 17:42:42,546 - model.gcrnn_supervisor - INFO - Log directory: data/model\gcrnn_DR_2_h_12_64-64_lr_0.01_bs_128_0717174242/
+2021-07-17 17:42:44,305 - model.gcrnn_supervisor - INFO - Model created
+2021-07-17 17:42:45,439 - model.gcrnn_supervisor - INFO - Loaded model at 47
+2021-07-17 17:42:45,440 - model.gcrnn_supervisor - INFO - Start training ...
+2021-07-17 17:42:45,440 - model.gcrnn_supervisor - INFO - num_batches:7
+2021-07-17 17:42:54,735 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:42:54,735 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:42:55,379 - model.gcrnn_supervisor - INFO - Epoch [47/100] (336) train_mae: 1.1600, val_mae: 4.6384, lr: 0.010000, 9.9s
+2021-07-17 17:42:55,381 - model.gcrnn_supervisor - INFO - Saved model at 47
+2021-07-17 17:42:55,383 - model.gcrnn_supervisor - INFO - Val loss decrease from inf to 4.6384, saving to models/epo47.tar
+2021-07-17 17:43:04,505 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:43:04,506 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:43:05,162 - model.gcrnn_supervisor - INFO - Epoch [48/100] (343) train_mae: 0.6180, val_mae: 4.4787, lr: 0.010000, 9.8s
+2021-07-17 17:43:05,166 - model.gcrnn_supervisor - INFO - Saved model at 48
+2021-07-17 17:43:05,166 - model.gcrnn_supervisor - INFO - Val loss decrease from 4.6384 to 4.4787, saving to models/epo48.tar
+2021-07-17 17:43:14,323 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:43:14,324 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:43:14,974 - model.gcrnn_supervisor - INFO - Epoch [49/100] (350) train_mae: 0.4915, val_mae: 1.8534, lr: 0.010000, 9.8s
+2021-07-17 17:43:16,327 - model.gcrnn_supervisor - INFO - Epoch [49/100] (350) train_mae: 0.4915, test_mae: 2.2993,  lr: 0.010000, 9.8s
+2021-07-17 17:43:16,330 - model.gcrnn_supervisor - INFO - Saved model at 49
+2021-07-17 17:43:16,330 - model.gcrnn_supervisor - INFO - Val loss decrease from 4.4787 to 1.8534, saving to models/epo49.tar
+2021-07-17 17:43:25,561 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:43:25,561 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:43:26,215 - model.gcrnn_supervisor - INFO - Epoch [50/100] (357) train_mae: 0.4358, val_mae: 2.5005, lr: 0.010000, 9.9s
+2021-07-17 17:43:35,438 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:43:35,439 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:43:36,075 - model.gcrnn_supervisor - INFO - Epoch [51/100] (364) train_mae: 0.4115, val_mae: 2.0079, lr: 0.010000, 9.9s
+2021-07-17 17:43:45,275 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:43:45,276 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:43:45,922 - model.gcrnn_supervisor - INFO - Epoch [52/100] (371) train_mae: 0.3952, val_mae: 1.6127, lr: 0.010000, 9.8s
+2021-07-17 17:43:45,926 - model.gcrnn_supervisor - INFO - Saved model at 52
+2021-07-17 17:43:45,926 - model.gcrnn_supervisor - INFO - Val loss decrease from 1.8534 to 1.6127, saving to models/epo52.tar
+2021-07-17 17:43:55,186 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:43:55,186 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:43:55,839 - model.gcrnn_supervisor - INFO - Epoch [53/100] (378) train_mae: 0.3861, val_mae: 1.8644, lr: 0.010000, 9.9s
+2021-07-17 17:44:05,190 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:44:05,190 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:44:05,831 - model.gcrnn_supervisor - INFO - Epoch [54/100] (385) train_mae: 0.4025, val_mae: 2.2410, lr: 0.010000, 10.0s
+2021-07-17 17:44:15,155 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:44:15,156 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:44:15,810 - model.gcrnn_supervisor - INFO - Epoch [55/100] (392) train_mae: 0.3915, val_mae: 2.1933, lr: 0.010000, 10.0s
+2021-07-17 17:44:25,225 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:44:25,225 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:44:25,903 - model.gcrnn_supervisor - INFO - Epoch [56/100] (399) train_mae: 0.3789, val_mae: 1.5396, lr: 0.010000, 10.1s
+2021-07-17 17:44:25,906 - model.gcrnn_supervisor - INFO - Saved model at 56
+2021-07-17 17:44:25,907 - model.gcrnn_supervisor - INFO - Val loss decrease from 1.6127 to 1.5396, saving to models/epo56.tar
+2021-07-17 17:44:35,252 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:44:35,252 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:44:35,908 - model.gcrnn_supervisor - INFO - Epoch [57/100] (406) train_mae: 0.3666, val_mae: 1.7917, lr: 0.010000, 10.0s
+2021-07-17 17:44:45,230 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:44:45,231 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:44:45,886 - model.gcrnn_supervisor - INFO - Epoch [58/100] (413) train_mae: 0.3619, val_mae: 1.5691, lr: 0.010000, 10.0s
+2021-07-17 17:44:55,106 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:44:55,107 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:44:55,751 - model.gcrnn_supervisor - INFO - Epoch [59/100] (420) train_mae: 0.3592, val_mae: 2.3459, lr: 0.010000, 9.9s
+2021-07-17 17:44:57,051 - model.gcrnn_supervisor - INFO - Epoch [59/100] (420) train_mae: 0.3592, test_mae: 2.9548,  lr: 0.010000, 9.9s
+2021-07-17 17:45:06,345 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:45:06,346 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:45:07,009 - model.gcrnn_supervisor - INFO - Epoch [60/100] (427) train_mae: 0.3589, val_mae: 2.1555, lr: 0.010000, 10.0s
+2021-07-17 17:45:16,482 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:45:16,483 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:45:17,120 - model.gcrnn_supervisor - INFO - Epoch [61/100] (434) train_mae: 0.3596, val_mae: 2.6000, lr: 0.010000, 10.1s
+2021-07-17 17:45:26,453 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:45:26,454 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:45:27,090 - model.gcrnn_supervisor - INFO - Epoch [62/100] (441) train_mae: 0.3572, val_mae: 2.4515, lr: 0.010000, 10.0s
+2021-07-17 17:45:36,350 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:45:36,351 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:45:37,005 - model.gcrnn_supervisor - INFO - Epoch [63/100] (448) train_mae: 0.3630, val_mae: 1.4385, lr: 0.010000, 9.9s
+2021-07-17 17:45:37,007 - model.gcrnn_supervisor - INFO - Saved model at 63
+2021-07-17 17:45:37,008 - model.gcrnn_supervisor - INFO - Val loss decrease from 1.5396 to 1.4385, saving to models/epo63.tar
+2021-07-17 17:45:46,470 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:45:46,471 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:45:47,126 - model.gcrnn_supervisor - INFO - Epoch [64/100] (455) train_mae: 0.3638, val_mae: 2.1692, lr: 0.010000, 10.1s
+2021-07-17 17:45:56,441 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:45:56,441 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:45:57,079 - model.gcrnn_supervisor - INFO - Epoch [65/100] (462) train_mae: 0.3784, val_mae: 2.7243, lr: 0.010000, 10.0s
+2021-07-17 17:46:06,400 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:46:06,400 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:46:07,041 - model.gcrnn_supervisor - INFO - Epoch [66/100] (469) train_mae: 0.4142, val_mae: 2.9828, lr: 0.000100, 10.0s
+2021-07-17 17:46:16,419 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:46:16,420 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:46:17,056 - model.gcrnn_supervisor - INFO - Epoch [67/100] (476) train_mae: 0.3587, val_mae: 1.6185, lr: 0.001000, 10.0s
+2021-07-17 17:46:26,212 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:46:26,213 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:46:26,848 - model.gcrnn_supervisor - INFO - Epoch [68/100] (483) train_mae: 0.3503, val_mae: 2.0087, lr: 0.001000, 9.8s
+2021-07-17 17:46:36,037 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:46:36,038 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:46:36,683 - model.gcrnn_supervisor - INFO - Epoch [69/100] (490) train_mae: 0.3453, val_mae: 2.0142, lr: 0.001000, 9.8s
+2021-07-17 17:46:37,986 - model.gcrnn_supervisor - INFO - Epoch [69/100] (490) train_mae: 0.3453, test_mae: 2.7151,  lr: 0.001000, 9.8s
+2021-07-17 17:46:47,521 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:46:47,521 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:46:48,219 - model.gcrnn_supervisor - INFO - Epoch [70/100] (497) train_mae: 0.3400, val_mae: 1.7373, lr: 0.001000, 10.2s
+2021-07-17 17:46:57,927 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:46:57,927 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:46:58,574 - model.gcrnn_supervisor - INFO - Epoch [71/100] (504) train_mae: 0.3381, val_mae: 1.9030, lr: 0.001000, 10.4s
+2021-07-17 17:47:07,873 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:47:07,873 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:47:08,522 - model.gcrnn_supervisor - INFO - Epoch [72/100] (511) train_mae: 0.3396, val_mae: 1.9219, lr: 0.001000, 9.9s
+2021-07-17 17:47:17,812 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:47:17,812 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:47:18,488 - model.gcrnn_supervisor - INFO - Epoch [73/100] (518) train_mae: 0.3361, val_mae: 1.8035, lr: 0.001000, 10.0s
+2021-07-17 17:47:27,864 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:47:27,865 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:47:28,511 - model.gcrnn_supervisor - INFO - Epoch [74/100] (525) train_mae: 0.3357, val_mae: 1.8892, lr: 0.001000, 10.0s
+2021-07-17 17:47:37,783 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:47:37,784 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:47:38,421 - model.gcrnn_supervisor - INFO - Epoch [75/100] (532) train_mae: 0.3352, val_mae: 1.8635, lr: 0.001000, 9.9s
+2021-07-17 17:47:47,752 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:47:47,752 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:47:48,513 - model.gcrnn_supervisor - INFO - Epoch [76/100] (539) train_mae: 0.3348, val_mae: 1.8447, lr: 0.000010, 10.1s
+2021-07-17 17:47:58,383 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:47:58,384 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:47:59,057 - model.gcrnn_supervisor - INFO - Epoch [77/100] (546) train_mae: 0.3346, val_mae: 1.8565, lr: 0.000100, 10.5s
+2021-07-17 17:48:08,707 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:48:08,707 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:48:09,375 - model.gcrnn_supervisor - INFO - Epoch [78/100] (553) train_mae: 0.3345, val_mae: 1.8661, lr: 0.000100, 10.3s
+2021-07-17 17:48:19,199 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:48:19,199 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:48:19,902 - model.gcrnn_supervisor - INFO - Epoch [79/100] (560) train_mae: 0.3372, val_mae: 1.8630, lr: 0.000100, 10.5s
+2021-07-17 17:48:21,287 - model.gcrnn_supervisor - INFO - Epoch [79/100] (560) train_mae: 0.3372, test_mae: 2.2611,  lr: 0.000100, 10.5s
+2021-07-17 17:48:31,045 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:48:31,045 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:48:31,719 - model.gcrnn_supervisor - INFO - Epoch [80/100] (567) train_mae: 0.3395, val_mae: 1.8513, lr: 0.000100, 10.4s
+2021-07-17 17:48:40,941 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:48:40,941 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:48:41,609 - model.gcrnn_supervisor - INFO - Epoch [81/100] (574) train_mae: 0.3344, val_mae: 1.8540, lr: 0.000100, 9.9s
+2021-07-17 17:48:51,090 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:48:51,092 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:48:51,738 - model.gcrnn_supervisor - INFO - Epoch [82/100] (581) train_mae: 0.3344, val_mae: 1.8575, lr: 0.000100, 10.1s
+2021-07-17 17:49:00,935 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:49:00,936 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:49:01,572 - model.gcrnn_supervisor - INFO - Epoch [83/100] (588) train_mae: 0.3344, val_mae: 1.8584, lr: 0.000100, 9.8s
+2021-07-17 17:49:10,832 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:49:10,832 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:49:11,471 - model.gcrnn_supervisor - INFO - Epoch [84/100] (595) train_mae: 0.3344, val_mae: 1.8593, lr: 0.000100, 9.9s
+2021-07-17 17:49:20,841 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:49:20,841 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:49:21,492 - model.gcrnn_supervisor - INFO - Epoch [85/100] (602) train_mae: 0.3343, val_mae: 1.8609, lr: 0.000100, 10.0s
+2021-07-17 17:49:31,069 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:49:31,070 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:49:31,728 - model.gcrnn_supervisor - INFO - Epoch [86/100] (609) train_mae: 0.3370, val_mae: 1.8627, lr: 0.000001, 10.2s
+2021-07-17 17:49:41,155 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:49:41,157 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:49:41,827 - model.gcrnn_supervisor - INFO - Epoch [87/100] (616) train_mae: 0.3343, val_mae: 1.8625, lr: 0.000010, 10.1s
+2021-07-17 17:49:51,252 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:49:51,253 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:49:51,907 - model.gcrnn_supervisor - INFO - Epoch [88/100] (623) train_mae: 0.3343, val_mae: 1.8620, lr: 0.000010, 10.1s
+2021-07-17 17:50:01,463 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:50:01,463 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:50:02,151 - model.gcrnn_supervisor - INFO - Epoch [89/100] (630) train_mae: 0.3343, val_mae: 1.8616, lr: 0.000010, 10.2s
+2021-07-17 17:50:03,521 - model.gcrnn_supervisor - INFO - Epoch [89/100] (630) train_mae: 0.3343, test_mae: 2.2594,  lr: 0.000010, 10.2s
+2021-07-17 17:50:13,188 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:50:13,188 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:50:13,849 - model.gcrnn_supervisor - INFO - Epoch [90/100] (637) train_mae: 0.3374, val_mae: 1.8609, lr: 0.000010, 10.3s
+2021-07-17 17:50:23,219 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:50:23,220 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:50:23,889 - model.gcrnn_supervisor - INFO - Epoch [91/100] (644) train_mae: 0.3401, val_mae: 1.8608, lr: 0.000010, 10.0s
+2021-07-17 17:50:33,513 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:50:33,513 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:50:34,162 - model.gcrnn_supervisor - INFO - Epoch [92/100] (651) train_mae: 0.3343, val_mae: 1.8611, lr: 0.000010, 10.3s
+2021-07-17 17:50:43,933 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:50:43,934 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:50:44,652 - model.gcrnn_supervisor - INFO - Epoch [93/100] (658) train_mae: 0.3343, val_mae: 1.8612, lr: 0.000010, 10.5s
+2021-07-17 17:50:54,548 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:50:54,548 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:50:55,242 - model.gcrnn_supervisor - INFO - Epoch [94/100] (665) train_mae: 0.3343, val_mae: 1.8612, lr: 0.000010, 10.6s
+2021-07-17 17:51:04,861 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:51:04,861 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:51:05,524 - model.gcrnn_supervisor - INFO - Epoch [95/100] (672) train_mae: 0.3374, val_mae: 1.8621, lr: 0.000010, 10.3s
+2021-07-17 17:51:15,177 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:51:15,178 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:51:15,863 - model.gcrnn_supervisor - INFO - Epoch [96/100] (679) train_mae: 0.3343, val_mae: 1.8627, lr: 0.000000, 10.3s
+2021-07-17 17:51:25,284 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:51:25,284 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:51:25,929 - model.gcrnn_supervisor - INFO - Epoch [97/100] (686) train_mae: 0.3343, val_mae: 1.8627, lr: 0.000001, 10.1s
+2021-07-17 17:51:35,373 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:51:35,374 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:51:36,022 - model.gcrnn_supervisor - INFO - Epoch [98/100] (693) train_mae: 0.3385, val_mae: 1.8627, lr: 0.000001, 10.1s
+2021-07-17 17:51:45,435 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:51:45,436 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:51:46,080 - model.gcrnn_supervisor - INFO - Epoch [99/100] (700) train_mae: 0.3343, val_mae: 1.8627, lr: 0.000001, 10.1s
+2021-07-17 17:51:47,457 - model.gcrnn_supervisor - INFO - Epoch [99/100] (700) train_mae: 0.3343, test_mae: 2.2599,  lr: 0.000001, 10.1s

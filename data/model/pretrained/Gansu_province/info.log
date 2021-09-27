@@ -1,0 +1,24 @@
+2021-07-04 14:49:24,499 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Gansu_province
+2021-07-04 14:49:29,311 - model.gcrnn_supervisor - INFO - Model created
+2021-07-04 14:51:30,704 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Gansu_province
+2021-07-04 14:51:32,444 - model.gcrnn_supervisor - INFO - Model created
+2021-07-04 14:51:33,245 - model.gcrnn_supervisor - INFO - Loaded model at 58
+2021-07-04 14:54:01,538 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Gansu_province
+2021-07-04 14:54:03,268 - model.gcrnn_supervisor - INFO - Model created
+2021-07-04 14:54:03,967 - model.gcrnn_supervisor - INFO - Loaded model at 58
+2021-07-12 18:37:27,135 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Gansu_province
+2021-07-12 18:37:28,793 - model.gcrnn_supervisor - INFO - Model created
+2021-07-12 18:37:45,809 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Gansu_province
+2021-07-12 18:37:47,470 - model.gcrnn_supervisor - INFO - Model created
+2021-07-12 18:37:48,096 - model.gcrnn_supervisor - INFO - Loaded model at 70
+2021-07-14 15:59:48,015 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Gansu_province
+2021-07-14 15:59:49,660 - model.gcrnn_supervisor - INFO - Model created
+2021-07-14 15:59:50,011 - model.gcrnn_supervisor - INFO - Loaded model at 52
+2021-07-17 13:24:09,972 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Gansu_province
+2021-07-17 13:24:11,580 - model.gcrnn_supervisor - INFO - Model created
+2021-07-17 13:24:32,870 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Gansu_province
+2021-07-17 13:24:34,473 - model.gcrnn_supervisor - INFO - Model created
+2021-07-17 13:24:35,216 - model.gcrnn_supervisor - INFO - Loaded model at 90
+2021-07-18 10:53:05,994 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Gansu_province
+2021-07-18 10:53:07,606 - model.gcrnn_supervisor - INFO - Model created
+2021-07-18 10:53:08,127 - model.gcrnn_supervisor - INFO - Loaded model at 93

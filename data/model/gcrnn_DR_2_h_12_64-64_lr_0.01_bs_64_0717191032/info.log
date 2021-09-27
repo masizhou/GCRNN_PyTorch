@@ -1,0 +1,5 @@
+2021-07-17 19:10:32,739 - model.gcrnn_supervisor - INFO - Log directory: data/model\gcrnn_DR_2_h_12_64-64_lr_0.01_bs_64_0717191032/
+2021-07-17 19:10:34,891 - model.gcrnn_supervisor - INFO - Model created
+2021-07-17 19:10:34,892 - model.gcrnn_supervisor - INFO - Start training ...
+2021-07-17 19:10:34,892 - model.gcrnn_supervisor - INFO - num_batches:13
+2021-07-17 19:10:35,389 - model.gcrnn_supervisor - INFO - Total trainable parameters 124353

@@ -1,0 +1,4 @@
+2021-07-18 10:37:12,650 - model.gcrnn_supervisor - INFO - Log directory: data/model\gcrnn_DR_2_h_12_64-64_lr_0.01_bs_64_0718103712/
+2021-07-18 10:37:14,317 - model.gcrnn_supervisor - INFO - Model created
+2021-07-18 10:37:14,317 - model.gcrnn_supervisor - INFO - Start training ...
+2021-07-18 10:37:14,317 - model.gcrnn_supervisor - INFO - num_batches:13

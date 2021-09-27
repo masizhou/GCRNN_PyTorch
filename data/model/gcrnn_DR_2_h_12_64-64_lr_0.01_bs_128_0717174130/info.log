@@ -1,0 +1,18 @@
+2021-07-17 17:41:30,412 - model.gcrnn_supervisor - INFO - Log directory: data/model\gcrnn_DR_2_h_12_64-64_lr_0.01_bs_128_0717174130/
+2021-07-17 17:41:36,618 - model.gcrnn_supervisor - INFO - Model created
+2021-07-17 17:41:36,619 - model.gcrnn_supervisor - INFO - Start training ...
+2021-07-17 17:41:36,619 - model.gcrnn_supervisor - INFO - num_batches:7
+2021-07-17 17:41:40,619 - model.gcrnn_supervisor - INFO - Total trainable parameters 371393
+2021-07-17 17:41:49,144 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:41:49,159 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:41:49,810 - model.gcrnn_supervisor - INFO - Epoch [0/100] (7) train_mae: 3.1051, val_mae: 4.6793, lr: 0.010000, 13.2s
+2021-07-17 17:41:49,852 - model.gcrnn_supervisor - INFO - Saved model at 0
+2021-07-17 17:41:49,852 - model.gcrnn_supervisor - INFO - Val loss decrease from inf to 4.6793, saving to models/epo0.tar
+2021-07-17 17:41:58,835 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:41:58,835 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:41:59,475 - model.gcrnn_supervisor - INFO - Epoch [1/100] (14) train_mae: 1.5402, val_mae: 3.4690, lr: 0.010000, 9.6s
+2021-07-17 17:41:59,478 - model.gcrnn_supervisor - INFO - Saved model at 1
+2021-07-17 17:41:59,479 - model.gcrnn_supervisor - INFO - Val loss decrease from 4.6793 to 3.4690, saving to models/epo1.tar
+2021-07-17 17:42:08,896 - model.gcrnn_supervisor - INFO - epoch complete
+2021-07-17 17:42:08,896 - model.gcrnn_supervisor - INFO - evaluating now!
+2021-07-17 17:42:09,548 - model.gcrnn_supervisor - INFO - Epoch [2/100] (21) train_mae: 1.0619, val_mae: 3.7100, lr: 0.010000, 10.1s

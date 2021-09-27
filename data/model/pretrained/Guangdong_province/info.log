@@ -1,0 +1,12 @@
+2021-07-12 23:39:39,574 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Guangdong_province
+2021-07-12 23:39:41,354 - model.gcrnn_supervisor - INFO - Model created
+2021-07-12 23:39:42,019 - model.gcrnn_supervisor - INFO - Loaded model at 18
+2021-07-14 16:14:27,979 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Guangdong_province
+2021-07-14 16:14:29,775 - model.gcrnn_supervisor - INFO - Model created
+2021-07-14 16:14:30,221 - model.gcrnn_supervisor - INFO - Loaded model at 27
+2021-07-17 17:55:21,525 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Guangdong_province
+2021-07-17 17:55:23,272 - model.gcrnn_supervisor - INFO - Model created
+2021-07-17 17:55:24,287 - model.gcrnn_supervisor - INFO - Loaded model at 63
+2021-07-18 11:07:46,752 - model.gcrnn_supervisor - INFO - Log directory: data/model/pretrained/Guangdong_province
+2021-07-18 11:07:48,515 - model.gcrnn_supervisor - INFO - Model created
+2021-07-18 11:07:49,030 - model.gcrnn_supervisor - INFO - Loaded model at 99

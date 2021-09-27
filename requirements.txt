@@ -1,0 +1,4 @@
+pyyaml
+statsmodels
+tables
+future
